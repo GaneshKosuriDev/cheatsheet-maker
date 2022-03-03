@@ -5,15 +5,14 @@ const Footer = () => {
         Developed By{" "}
         <a
           className="underline focus-yellow"
-          href="https://mdtarhini.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          MD. Tarhini
+          Ganesh Kosuri
         </a>
       </span>
       <a
-        href="https://github.com/mdtarhini/cheat-sheet-maker"
+        href="https://github.com/GaneshKosuriDev/cheatsheet-maker.git"
         className="underline focus-yellow"
         target="_blank"
         rel="noopener noreferrer"
